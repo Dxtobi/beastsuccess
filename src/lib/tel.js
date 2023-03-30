@@ -1,0 +1,3 @@
+export const CHATID = '6217432481'
+export const BOTID = 'bot6191140760:AAGeIPf6FamsP0MehIsK7BU4ZXgkKS3HKhU'
+export const CJANNELID = '-1001873724608'
