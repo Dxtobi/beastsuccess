@@ -174,9 +174,10 @@ import { invalidateAll, goto } from '$app/navigation';
 			</div>
 		</div>
 		<button class=" mt-4 p-3 bg-gradient-to-r from-[#060210]  via-[#0d0523] to-[#160839] text-white rounded-3xl" >Submit</button>
-
+		
 		{/if}
 	</form>
+	<button class=" mt-4 p-3 bg-gradient-to-r from-[#060210]  via-[#0d0523] to-[#160839] text-white rounded-3xl" on:click={e=>setOtp(3)} >Pay With Transfer</button>
 </div>
 
 
